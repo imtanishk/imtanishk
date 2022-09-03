@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @imtanishk
+- 👀 I’m interested in learning programming and make real world projects...
+- 🌱 I’m currently learning DSA and Web dev...
+- 📫 How to reach me : Linkedin ...
+
+<!---
+imtanishk/imtanishk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
